@@ -1,0 +1,1 @@
+ D:\\fire_prototype\\.dart_tool\\flutter_build\\01fb3d1ee4916e6744b4cc74398ad9c5\\native_assets.yaml: 
