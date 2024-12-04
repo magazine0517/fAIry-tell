@@ -1,4 +1,4 @@
-# fire_prototype
+# fAIry-tell
 
 A new Flutter project.
 
